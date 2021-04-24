@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Testowa apka</string>
+    <string name="moj_tekst">Witaj świecie!</string>
+    <string name="moj_tekst2">Dzień dobry!</string>
+    <string name="moj_tekst3">Miłego dnia!</string>
+    <string name="moj_tekst4">Przepraszam!</string>
+    <string name="moj_tekst5">Dziękuję!</string>
+    <string name="moj_tekst6">Dowidzenia!</string>
+</resources>

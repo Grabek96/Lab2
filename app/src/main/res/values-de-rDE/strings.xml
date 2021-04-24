@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Testowa apka</string>
+    <string name="moj_tekst">Hallo Welt!</string>
+    <string name="moj_tekst2">Guten Tag!</string>
+    <string name="moj_tekst3">Einen schönen Tag noch</string>
+    <string name="moj_tekst4">Entschuldigung!</string>
+    <string name="moj_tekst5">Danke!</string>
+    <string name="moj_tekst6">Aufwiedersehen!</string>
+</resources>
